@@ -8,7 +8,7 @@
     {
       "name": "new-task",
       "path": ".claude/commands/new-task.md",
-      "description": "Analyze code for performance issues and suggest optimizations"
+      "description": "Analyze task complexity and create actionable implementation plan"
     },
     {
       "name": "code-explain",
