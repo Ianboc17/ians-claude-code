@@ -10,16 +10,6 @@
   "license": "MIT",
   "homepage": "https://github.com/Ianboc17/ians-claude-code",
   "repository": "https://github.com/Ianboc17/ians-claude-code",
-  "keywords": [
-    "productivity",
-    "nextjs",
-    "supabase",
-    "typescript",
-    "react",
-    "api",
-    "development",
-    "mcp"
-  ],
   "commands": [
     {
       "name": "new-task",
@@ -165,15 +155,5 @@
       "args": ["-y", "@supabase/mcp-server-supabase"],
       "description": "Supabase database operations and management"
     }
-  },
-  "tags": [
-    "productivity",
-    "nextjs",
-    "supabase",
-    "typescript",
-    "react",
-    "api",
-    "development",
-    "mcp"
-  ]
+  }
 }
