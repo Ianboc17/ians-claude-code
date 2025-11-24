@@ -6,10 +6,10 @@ My personal Claude Code configuration for productive web development. This plugi
 
 ```bash
 # Step 1: Add the marketplace
-/plugin marketplace add Ianboc17/Ian's-claude-code
+/plugin marketplace add Ianboc17/ians-claude-code
 
 # Step 2: Install the plugin
-/plugin install Ian's-claude-code
+/plugin install ians-claude-code
 ```
 
 ## What's Inside
@@ -65,23 +65,23 @@ My personal Claude Code configuration for productive web development. This plugi
 
 ```bash
 # Add marketplace
-/plugin marketplace add Ianboc17/Ian's-claude-code
+/plugin marketplace add Ianboc17/ians-claude-code
 
 # Install plugin
-/plugin install Ian's-claude-code
+/plugin install ians-claude-code
 ```
 
 ### From Local Clone (for development)
 
 ```bash
-git clone https://github.com/Ianboc17/Ian's-claude-code.git
-cd Ian's-claude-code
+git clone https://github.com/Ianboc17/ians-claude-code.git
+cd ians-claude-code
 
 # Add as local marketplace
-/plugin marketplace add /path/to/Ian's-claude-code
+/plugin marketplace add /path/to/ians-claude-code
 
 # Install plugin
-/plugin install Ian's-claude-code
+/plugin install ians-claude-code
 ```
 
 ## Best For
