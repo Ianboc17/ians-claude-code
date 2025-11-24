@@ -1,22 +1,22 @@
 {
-    "name": "Ian's-claude-code",
-    "owner": {
-      "name": "Ian",
-      "contact": "github.com/Ianboc17"
-    },
-    "description": "Ian's curated Claude Code setup for productive development",
-    "plugins": [
-      {
-        "name": "Ianboc17-claude-code",
-        "source": "./",
-        "description": "Personal Claude Code configuration with 14 productivity commands and 11 specialized AI agents for modern web development",
-        "version": "1.0.0",
-        "author": {
-          "name": "Ian",
-          "email": "[email protected]"
-        },
-        "tags": ["productivity", "nextjs", "supabase", "typescript", "react", "development"]
-      }
-    ]
-  }
+  "name": "Ian's-claude-code",
+  "owner": {
+    "name": "Ian",
+    "contact": "github.com/Ianboc17"
+  },
+  "description": "Ian's curated Claude Code setup for productive development",
+  "plugins": [
+    {
+      "name": "Ian's-claude-code",
+      "source": "./",
+      "description": "Personal Claude Code configuration with 14 productivity commands and 11 specialized AI agents for modern web development",
+      "version": "1.0.0",
+      "author": {
+        "name": "Ian",
+        "email": "[email protected]"
+      },
+      "tags": ["productivity", "nextjs", "supabase", "typescript", "react", "development"]
+    }
+  ]
+}
   
