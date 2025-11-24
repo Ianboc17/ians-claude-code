@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "ians-claude-code",
-      "source": "https://github.com/Ianboc17/ians-claude-code",
+      "source": "./",
       "description": "Personal Claude Code configuration with 14 productivity commands and 11 specialized AI agents for modern web development",
       "version": "1.0.0",
       "author": {
